@@ -1,8 +1,3 @@
-let questions = []
-let answers = []
-let i = 0;
-
-
 $(document).ready(function() {
   $("#flash-card1-show").on('click', function() {
     $('.description1').text('Const is another variable declaration that will be used to replace let. Const is short for constant meaning these values CANNOT change. Const is great because it removes the "magic number" pattern that we often fall into as developers.')
