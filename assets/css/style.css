@@ -1,0 +1,12 @@
+body {
+  margin-top: 70px;
+}
+
+.card-title {
+  color: black !important;
+  font-weight: bold !important;
+}
+
+.container {
+  margin-bottom: 30px;
+}
